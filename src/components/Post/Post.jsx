@@ -1,5 +1,5 @@
 import "./post.css";
-import Down2 from "../Img/down2.jpg";
+import Down2 from "../../Img/down2.jpg";
 
 export default function Post() {
   return (

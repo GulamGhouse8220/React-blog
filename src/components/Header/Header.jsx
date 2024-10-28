@@ -1,5 +1,5 @@
 import "./Header.css"
-import img1 from "../Img/pexels-pixabay-60628.jpg"
+import img1 from "../../Img/pexels-pixabay-60628.jpg"
 
 export default function Header() {
     return (

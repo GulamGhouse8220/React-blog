@@ -1,5 +1,5 @@
 import "./Sidebarees.css";
-import img1 from "../Img/download1.jpg";
+import img1 from "../../Img/download1.jpg";
 export default function Sidebars() {
   return (
     <div className="sidebars">
