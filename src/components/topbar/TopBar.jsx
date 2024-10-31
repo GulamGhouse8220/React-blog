@@ -1,4 +1,5 @@
 import "./TopBar.css"
+import img from "../../Img/Gulam-Png.png"
 
 export default function topbar() {
     return (
@@ -20,7 +21,7 @@ export default function topbar() {
                 </ul>
             </div>
             <div className="topRight">
-                <img className="topImg" src="https://reactjs.org/logo-og.png" alt="react img" />
+                <img className="topImg" src={img} width="100%" alt="react img" />
                 <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
             </div>
 

@@ -1,13 +1,13 @@
 import TopBar from "./components/topbar/TopBar";
 import Home from "./Pages/Home/Home";
 import Single from "./Pages/single/Single";
+import Write from "./Pages/write/Write";
 
 function App() {
   return (
     <>
       <TopBar />
-      {/* <Home /> */}
-      <Single />
+      <Write />
     </>
   );
 }
